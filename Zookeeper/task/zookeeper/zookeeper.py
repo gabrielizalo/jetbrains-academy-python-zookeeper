@@ -127,3 +127,4 @@ while which_habitat != "exit":
     print(animals[int(which_habitat)])
     which_habitat = input()
 print("See you!")
+¡
